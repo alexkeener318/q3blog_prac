@@ -3,6 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 I am changing this for the develop branch to make a pull request
+I have made this better
 Things you may want to cover:
 
 * Ruby version
